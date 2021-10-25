@@ -151,17 +151,17 @@ const foodArr = [
 */
 
 
-// let foodFilter = foodArr.filter(function(inputTag) {
-//     let {tags} = foodArr
-//     foodArr.forEach(item => {
-//         if (tags.indexOf(inputTag) > -1) {
-//             return item.name
-//         } else {
+// let foodFilter = foodArr.filter(function(tag){
+//     return tag.tags === 'Local Favorites'
+// })
 
-//         }
-//     }
+let foodFilter = foodArr.filter(function(element){
+    return element.tags == "Vegetarian"
+});
 
-//     console.log()
+console.log(foodFilter);
+
+
 //////////////////PROBLEM 5////////////////////
 /* 
     Now let's write a function that's a little
@@ -201,7 +201,16 @@ const foodArr = [
     Return the filtered array from the entire function
 */
 
-//CODE HERE
+filterByProperty = (property, number, type) => {
+    let filteredArray = [];
+    foodArr.filter(function (element) {
+        if (element.type == 'above') {
+            return element.type > type
+        } else {
+            return element.type < type
+        }
+    })
+}
 
 
 /*
