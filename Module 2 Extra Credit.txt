@@ -1,0 +1,83 @@
+﻿Figma Link:
+https://www.figma.com/file/reoVuOdnxuklVtlpupyxEZ/Module-2-Assesment?node-id=2%3A3
+
+
+Hubspot
+
+
+* Javascript
+* React
+* NGINX
+* Java
+* MySQL
+* Cloudfare
+* ES6
+* Amazon S3
+* Sass
+* Kafka
+* Swift
+* Apache Spark
+* Hadoop
+* Java 8
+* HBase
+* Vitness
+
+
+Hubspot is an American developer and marketer of software products for inbound marketing, sales, and customer service. Hubspot consistently finds itself at the top of the list when it comes to user interface design and overall customer experience. This partnered along with the high praise employees give the overall culture of the company is why I chose to dig a little deeper into the company’s tech stack. One thing that I found very interesting about most of the job postings on Hubspot’s website is that they prefer a developer that is happy spending most of their time writing Javascript and TypescScript because they have a great design system so that engineers spend very little time writing custom CSS.
+
+
+Netflix
+
+
+* Javascript
+* Node.js
+* React
+* Java
+* MySQL
+* PostgreSQL
+* Amazon S3
+* Amazon EC2
+* Flask
+* Amazon RDS
+* Amazon DynamoDB
+* Cassandra
+* Hadoop
+* Oracle
+* Amazon RDS for Postgre SQL
+* Amazon EMR
+* Presto
+* CloudBees
+* Pig
+* Winjs
+* Atlas-DB
+
+
+Netflix is one of the leaders in the streaming world and is a great company for young developers to work for. Netflix is a company that pushes its employees to continue learning and become the best developers they can possibly be. Employees rave about the company culture and make it sound like an amazing place to work. Netflix has several jobs for young aspiring developers. In most entry-level jobs, they require you to have practical knowledge of Java or any other object-orientated programming language. Netflix also lists that they currently use, Java, Gradle, Spring Boot 2.x, gRPC, Atlas, Spinnaker, Elasticsearch, SQL, AWS, etc. They also note that it is definitely not a requirement to know all of those upon applying, but you should be excited to learn!
+Uber
+
+
+* jQuery
+* Python
+* Node.js
+* React
+* NGINX
+* Java
+* MySQL
+* PostgreSQL
+* MongoDB
+* Redis
+* Amazon EC2
+* Kafka
+* Go
+* Swift
+* Objective-C
+* Backbone.js
+* Cassandra
+* Apache Spark
+* Hadoop
+* Apache Thrift
+* RIBs
+* Ares
+
+
+Uber is a powerful company that pushes the envelope when it comes to development. Uber has a lot of career opportunities in the development field and it was quite inspiring to see all of the entry-level positions they had posted. One position that I found intriguing was the Fullstack Software Engineer position. As a Full Stack developer with Uber you develop scalable backend microservices, create react based frontend components and experiences, and partner with product and product operations. They require experience in languages like C/C++, Java, Python, Go, or C#, and experience using Javascript and web frameworks like React, Angular, and Vue.
